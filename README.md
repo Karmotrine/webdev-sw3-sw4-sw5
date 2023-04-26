@@ -1,4 +1,4 @@
-# webdev-sw3-sw4-sw5
+# Web Development SW3, SW4, SW5
 Group seatwork #3, #4, #5 for Web Development Class
 
 
